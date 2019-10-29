@@ -3,6 +3,9 @@
 target/
 test-output/
 *.class
+*.jar
+lib/
+out/
 .classpath
 .project
 .settings/
@@ -14,5 +17,4 @@ otter.properties
 jtester.properties
 .idea/
 *.iml
-*.obj
 logs/*
